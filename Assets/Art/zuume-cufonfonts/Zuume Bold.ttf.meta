@@ -1,0 +1,28 @@
+fileFormatVersion: 2
+guid: 55dcff85108795c48835f812a2ff9c32
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Zuume
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f3a4739d6c0aa3c408287041f0f14b88, type: 3}
+  - {fileID: 12800000, guid: 41d31dc47b8e7ac46aa9467ed532115f, type: 3}
+  - {fileID: 12800000, guid: 90fe8e1d82bab7c4eb67f277e84f97ae, type: 3}
+  - {fileID: 12800000, guid: 02d1b9e3ab47a284db25486baa9bd660, type: 3}
+  - {fileID: 12800000, guid: 91959c037b8f95e4280f4ecd26e65a1e, type: 3}
+  - {fileID: 12800000, guid: a466ccbaefa105140a41e0a3eb1fb8c9, type: 3}
+  - {fileID: 12800000, guid: 4021ba8d27e6e7c4aa7f3c963d408f5c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
